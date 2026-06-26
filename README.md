@@ -4,7 +4,7 @@ Email: mojeed.o.hassan@gmail.com<br>
 
 
 
-## View Dashbaord [here](https://app.powerbi.com/view?r=eyJrIjoiOTBiODkwYTYtMjk2MC00MzMzLWJkOGYtZWQzNGFiNTdjODZkIiwidCI6ImFlM2E5OTA2LTc4MWEtNDQ2YS1iZGI2LTYzNzdjMDllMmM2ZiIsImMiOjF9&pageName=ReportSectioneed2047ccf3ea2f7d6e8)
+## View Dashbaord [here](https://app.powerbi.com/view?r=eyJrIjoiY2MzZDk2ZmMtNDU5OC00ZWI5LWEwZDMtM2E3OTM3YWRiNTExIiwidCI6ImFlM2E5OTA2LTc4MWEtNDQ2YS1iZGI2LTYzNzdjMDllMmM2ZiIsImMiOjF9&pageName=ReportSectioneed2047ccf3ea2f7d6e8)
 
 # Sales-Performance
 Jumia Sales Performance
